@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdulhamid Mustapha (Blockchain Developer)
 
-<!--
-**abdoulhameed/abdoulhameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 **Blockchain Developer | Smart Contract Engineer | Web3 Architect**  
+🚀 Specializing in Solidity, Token Engineering, GameFi Architecture & Secure Smart Contracts
 
-Here are some ideas to get you started:
+I design, build, and optimize decentralized systems — from custom tokens to NFT collections and Web3 game economies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Tools
+- **Languages:** Solidity, JavaScript, TypeScript  
+- **Frameworks:** Hardhat, Foundry, Truffle  
+- **Blockchain:** Ethereum, Polygon, Binance Smart Chain  
+- **Libraries:** Ethers.js, Web3.js, OpenZeppelin  
+- **Storage:** IPFS, Pinata  
+- **Other:** Node.js, JSON-RPC, MetaMask Integration
+
+---
+
+## 🔥 Web3 Skills
+- ERC-20 fungible tokens  
+- ERC-721 & ERC-1155 NFTs  
+- In-game economy tokenomics  
+- DApp development and wallet integration  
+- Contract security (reentrancy, access control, overflow checks)  
+- Gas optimization and contract audits  
+- Backend integration (Node.js, Express)  
+
+---
+
+## 📂 Featured Projects (Adding More)
+- ⭐ Custom ERC-20 game token  
+- ⭐ NFT contract (ERC-721)  
+- ⭐ Web3 DApp (wallet connect + contract interaction)  
+
+---
+
+## 📫 Contact  
+📧 **abdulhamidmustapha836@gmail.com**  
+📱 **+2349161738186**
+
+---
+🔒 *Some of my blockchain work is client-based or NDA-protected — I am adding sanitized versions of my contracts for public review.*
